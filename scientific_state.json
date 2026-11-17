@@ -59,8 +59,10 @@
     "causal_effect"
   ],
   "doi": {
-    "zenodo": "10.5281/zenodo.24278322",
-    "figshare": "pending"
+    "zenodo_v2_0_0": "10.5281/zenodo.24314201",
+    "zenodo_v1_0_0": "10.5281/zenodo.24278322",
+    "zenodo_all_versions": "10.5281/zenodo.24278321",
+    "figshare": "10.6084/m9.figshare.35038726"
   },
   "phase_2_hypothesis_review": {
     "status": "complete",
@@ -68,5 +70,19 @@
     "date": "2026-11-17",
     "outcome": "(E) Undetermined (interim) confirmed",
     "document": "REVIEW/INDEPENDENT_REVIEW.md"
-  }
+  },
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-16",
+      "doi": "10.5281/zenodo.24278322",
+      "description": "Original architectural investigation paper"
+    },
+    {
+      "version": "2.0.0",
+      "date": "2026-11-17",
+      "doi": "10.5281/zenodo.24314201",
+      "description": "Phase 2 complete (Independent Review signed), Evaluation Design, Adversarial Threat Model, Stronger Argument Memo for H-F2"
+    }
+  ]
 }

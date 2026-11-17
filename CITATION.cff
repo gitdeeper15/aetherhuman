@@ -3,13 +3,14 @@ message: "If you use AetherHuman, please cite it as below."
 type: software
 title: "AetherHuman: Human Participation in Autonomous Agent Ecosystems"
 version: 2.0.0
-doi: 10.5281/zenodo.24278322
-url: "https://doi.org/10.5281/zenodo.24278322"
+doi: 10.5281/zenodo.24314201
+url: "https://doi.org/10.5281/zenodo.24314201"
 abstract: >
   AetherHuman is the eleventh candidate of the Aether family.
-  v1.0.0 is an architectural investigation of the human participation
-  gap between governance authority (AetherGovern), identity
-  (AetherIdentity), and runtime monitoring (AetherRuntime).
+  v2.0.0 is the current release, which includes Phase 2 completion
+  (Independent Review signed by Jonathan Rabe), the Stronger Argument
+  Memo for H-F2, the Evaluation Design, and the Adversarial Threat Model.
+  The original paper (v1.0.0) remains available at 10.5281/zenodo.24278322.
 authors:
   - family-names: Baladi
     given-names: Samir
@@ -24,3 +25,19 @@ keywords:
   - Architectural Investigation
   - Falsification-First
 date-released: 2026-11-17
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24314201
+    description: "AetherHuman v2.0.0 (current)"
+  - type: doi
+    value: 10.5281/zenodo.24278322
+    description: "AetherHuman v1.0.0 (original paper)"
+  - type: doi
+    value: 10.5281/zenodo.24278321
+    description: "AetherHuman (all versions)"
+  - type: doi
+    value: 10.6084/m9.figshare.35038726
+    description: "AetherHuman on Figshare"
+  - type: url
+    value: "https://github.com/gitdeeper15/aetherhuman"
+    description: "GitHub repository"

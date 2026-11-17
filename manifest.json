@@ -16,11 +16,13 @@
   },
   "license": {
     "docs": "CC-BY-4.0",
-    "code": "MIT (future \u2014 none in this release)"
+    "code": "MIT (future — none in this release)"
   },
   "doi": {
-    "zenodo": "10.5281/zenodo.24278322",
-    "figshare": "pending"
+    "zenodo_v2_0_0": "10.5281/zenodo.24314201",
+    "zenodo_v1_0_0": "10.5281/zenodo.24278322",
+    "zenodo_all_versions": "10.5281/zenodo.24278321",
+    "figshare": "10.6084/m9.figshare.35038726"
   },
   "urls": {
     "github": "https://github.com/gitdeeper15/aetherhuman",
@@ -28,7 +30,10 @@
     "codeberg": "https://codeberg.org/gitdeeper15/aetherhuman",
     "bitbucket": "https://bitbucket.org/gitdeeper15/aetherhuman",
     "website": "https://aetherhuman.netlify.app",
-    "zenodo": "https://doi.org/10.5281/zenodo.24278322"
+    "zenodo": "https://doi.org/10.5281/zenodo.24278322",
+    "zenodo_v2_0_0": "https://doi.org/10.5281/zenodo.24314201",
+    "zenodo_v1_0_0": "https://doi.org/10.5281/zenodo.24278322",
+    "zenodo_all_versions": "https://doi.org/10.5281/zenodo.24278321"
   },
   "counts": {
     "functions": 5,
@@ -48,5 +53,17 @@
     "genuineness_of_the_gap",
     "observable_benefit",
     "causal_effect"
+  ],
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-16",
+      "doi": "10.5281/zenodo.24278322"
+    },
+    {
+      "version": "2.0.0",
+      "date": "2026-11-17",
+      "doi": "10.5281/zenodo.24314201"
+    }
   ]
 }

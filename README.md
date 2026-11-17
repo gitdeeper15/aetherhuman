@@ -8,7 +8,7 @@
 
 <br>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24278322.svg)](https://doi.org/10.5281/zenodo.24278322)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24314201.svg)](https://doi.org/10.5281/zenodo.24314201)
 [![DOI Figshare](https://img.shields.io/badge/DOI%20Figshare-10.6084%2Fm9.figshare.35038726-blue)](https://doi.org/10.6084/m9.figshare.35038726)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8903--0029-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8903-0029)
@@ -65,7 +65,9 @@ This repository contains no `src/`, no `tests/`, and no `experiments/`. It will 
 
 | | |
 |---|---|
-| **Paper (v1.0.0)** | Published on Zenodo: [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
+| **Current release (v2.0.0)** | Published on Zenodo: [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
+| **Original paper (v1.0.0)** | Published on Zenodo: [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
+| **All versions** | [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321) |
 | **Length** | ~29 pages, ~11,000 words (~13,600 with references and appendices), 30 references |
 | **PDF in this repo** | [`paper/AetherHuman_Research_Paper_v1.0.0.pdf`](paper/AetherHuman_Research_Paper_v1.0.0.pdf) |
 
@@ -278,7 +280,7 @@ The literature on human-in-the-loop, principal-agent models, delegation calculi,
 | 8 | AetherIdentity | Candidate (paper + v2.0.0; independence unresolved) | [10.5281/zenodo.24102739](https://doi.org/10.5281/zenodo.24102739) |
 | 9 | AetherPolicy | Candidate (Phase 4: (E) undetermined) | [10.5281/zenodo.24160047](https://doi.org/10.5281/zenodo.24160047) |
 | 10 | AetherAudit | Candidate (Phase 4: (E) undetermined) | [10.5281/zenodo.24274628](https://doi.org/10.5281/zenodo.24274628) |
-| **11** | **AetherHuman** | **Candidate (this repository; Phase 4: (E) undetermined)** | [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
+| **11** | **AetherHuman** | **Candidate (this repository; Phase 4: (E) undetermined)** | [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
 
 ---
 
@@ -448,8 +450,8 @@ Machine-readable metadata is in [`CITATION.cff`](CITATION.cff) (GitHub shows a "
   year      = {2026},
   version   = {1.0.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.24278322},
-  url       = {https://doi.org/10.5281/zenodo.24278322},
+  doi       = {10.5281/zenodo.24314201},
+  url       = {https://doi.org/10.5281/zenodo.24314201},
   note      = {Architectural investigation; Phase 4: (E) Undetermined (interim)}
 }
 ```
@@ -470,7 +472,9 @@ Interdisciplinary AI Researcher, Ronin Institute / Rite of Renaissance
 | **Codeberg** | [codeberg.org/gitdeeper15/aetherhuman](https://codeberg.org/gitdeeper15/aetherhuman) |
 | **Bitbucket** | [bitbucket.org/gitdeeper15/aetherhuman](https://bitbucket.org/gitdeeper15/aetherhuman) |
 | **Website** | [aetherhuman.netlify.app](https://aetherhuman.netlify.app) |
-| **Zenodo** | [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
+| **Zenodo (v2.0.0, current)** | [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
+| **Zenodo (v1.0.0)** | [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
+| **Zenodo (all versions)** | [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321) |
 | **Figshare** | [10.6084/m9.figshare.35038726](https://doi.org/10.6084/m9.figshare.35038726) |
 
 ---
@@ -486,7 +490,9 @@ Interdisciplinary AI Researcher, Ronin Institute / Rite of Renaissance
 **AetherHuman v1.0.0 — Architectural Investigation**
 
 © 2026 Samir Baladi — Ronin Institute / Rite of Renaissance
-DOI: [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322)
+DOI (v2.0.0, current): [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201)
+DOI (v1.0.0): [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322)
+DOI (all versions): [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321)
 Figshare DOI: [10.6084/m9.figshare.35038726](https://doi.org/10.6084/m9.figshare.35038726)
 
 *AetherHuman is a candidate, not a result.*
