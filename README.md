@@ -8,7 +8,7 @@
 
 <br>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24314201.svg)](https://doi.org/10.5281/zenodo.24314201)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24315874.svg)](https://doi.org/10.5281/zenodo.24315874)
 [![DOI Figshare](https://img.shields.io/badge/DOI%20Figshare-10.6084%2Fm9.figshare.35038726-blue)](https://doi.org/10.6084/m9.figshare.35038726)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8903--0029-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8903-0029)
@@ -65,13 +65,32 @@ This repository contains no `src/`, no `tests/`, and no `experiments/`. It will 
 
 | | |
 |---|---|
-| **Current release (v3.0.0)** ) |
+| **Current release (v3.0.0)** | [10.5281/zenodo.24315874](https://doi.org/10.5281/zenodo.24315874) |
 | **Original paper (v1.0.0)** | Published on Zenodo: [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
 | **All versions** | [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321) |
 | **Length** | ~29 pages, ~11,000 words (~13,600 with references and appendices), 30 references |
 | **PDF in this repo** | [`paper/AetherHuman_Research_Paper_v1.0.0.pdf`](paper/AetherHuman_Research_Paper_v1.0.0.pdf) |
 
 ---
+
+## v3.0.0 — Stronger Argument Analysis for H-F2
+
+Version 3.0.0 adds a focused analytical development of H-F2. It does not modify the original v1.0.0 research paper or change the Phase 4 decision.
+
+The release includes:
+
+- **[Stronger Argument Memo for H-F2](research/STRONGER_ARGUMENT_MEMO_v3.0.0.md):** examines candidate architectural responsibilities across the five human-participation functions, records possible overlaps, and makes the unresolved reduction questions explicit.
+- **[Dialogue Log](research/DIALOGUE_LOG_Stronger_Argument_Memo.md):** documents selected exchanges and the provenance of analytical changes made during the memo's development.
+
+The analysis strengthens the basis for examining H-F2, particularly the candidate distinctions concerning Fn3 and Fn5. It does not establish that these responsibilities are irreducible from AetherGovern, AetherIdentity, and AetherRuntime.
+
+**Status remains unchanged:**
+
+- Phase 4: (E) Undetermined (interim).
+- H-F2: Stronger analytical basis; not established.
+- H-F4: Untested.
+- Phases 5 and 6: Not authorized.
+- Original research paper: v1.0.0, unchanged.
 
 ## Central Question
 
@@ -109,20 +128,25 @@ These five are **not** assumed to be complete, independent, or necessary. The pa
 | ID | Claim under test | Status |
 |:-:|---|---|
 | **H-F1** | Non-redundancy: not covered by Govern / Identity / Runtime | 🟡 Not falsified (author's reading) |
-| **H-F2** | Distinction from Govern + Identity + Runtime (a remainder survives) | 🟡 Not falsified (remainder may be small; **most fragile**) |
+| **H-F2** | Distinction from Govern + Identity + Runtime (a non-reducible remainder survives) | 🟡 **Stronger analytical basis; not established.** Candidate responsibilities have been isolated, but their non-reducibility remains unresolved. |
 | **H-F3** | Decentralizability: no central human authority required | 🟡 Not falsified (residuals: veto, mandatory intervention) |
 | **H-F4** | Observable benefit | 🔴 **Untested** |
 
 > [!NOTE]
 > **"Not falsified" is a weaker status than "confirmed". "Untested" is not a pass.**
 >
-> Decision rule: the candidate is accepted as an independent dimension only if all four conditions have been tested and none falsified, with H-F4 supported by measured results. With three conditions not falsified by argument alone and one untested, the third case applies: **(E) Undetermined (interim)**.
+> Decision rule: the candidate is accepted as an independent dimension only if all four conditions have been tested and none falsified, with H-F4 supported by measured results. The current evidence does not meet that threshold: H-F1 and H-F3 remain not falsified by argument alone; H-F2 has a stronger analytical basis, but its candidate responsibilities have not been established as non-reducible; and H-F4 remains untested. The decision therefore remains **(E) Undetermined (interim)**.
 
-**Residuals noted in the paper**
+## Residuals and Candidate Responsibilities
+
+### Residuals identified in the original v1.0.0 paper
 
 - **H-F3:** veto and mandatory intervention are residual cases not yet shown to be decentralizable.
-- **H-F2:** the remainder after composition with Govern + Identity + Runtime may be small.
 - **H-F1:** related work outside the family (Cheng & Cheng; HDP) overlaps Fn1/Fn4, recorded as a reservation on H-F1.
+
+### Additional analysis in the v3.0.0 memo
+
+- **H-F2:** the stronger analysis isolates candidate responsibilities, particularly Fn3's non-bypassability and Fn5's decision-signal distinction. Their non-reducibility after composition with Govern + Identity + Runtime remains unestablished.
 
 ---
 
@@ -151,7 +175,7 @@ Full record: [`DECISIONS/INDEPENDENCE_DECISION.md`](DECISIONS/INDEPENDENCE_DECIS
 | Why insufficient to **accept** | Why insufficient to **reject** |
 |---|---|
 | H-F4 is untested: no benefit has been observed. | No failure condition has been falsified. |
-| The H-F2 remainder may be small. | The comparison found a remainder after composition with the neighbours (H-F2). |
+| The candidate responsibilities identified for H-F2 have not been established as non-reducible from Govern + Identity + Runtime. | The analysis now identifies specific candidate remainders and records possible overlaps and unresolved reduction questions; this strengthens the analytical basis but does not establish H-F2. |
 | H-F3 has residuals (veto, mandatory intervention). | The decentralization argument did not reach a requirement for a central decision point (H-F3). |
 | P1 is near-trivial; P2 cuts against independence. | |
 | AetherGovern and AetherIdentity are themselves unresolved. | |
@@ -280,7 +304,7 @@ The literature on human-in-the-loop, principal-agent models, delegation calculi,
 | 8 | AetherIdentity | Candidate (paper + v2.0.0; independence unresolved) | [10.5281/zenodo.24102739](https://doi.org/10.5281/zenodo.24102739) |
 | 9 | AetherPolicy | Candidate (Phase 4: (E) undetermined) | [10.5281/zenodo.24160047](https://doi.org/10.5281/zenodo.24160047) |
 | 10 | AetherAudit | Candidate (Phase 4: (E) undetermined) | [10.5281/zenodo.24274628](https://doi.org/10.5281/zenodo.24274628) |
-| **11** | **AetherHuman** | **Candidate (this repository; Phase 4: (E) undetermined)** | [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
+| **11** | **AetherHuman** | **Candidate (this repository; Phase 4: (E) undetermined)** | [10.5281/zenodo.24315874](https://doi.org/10.5281/zenodo.24315874) |
 
 ---
 
@@ -413,7 +437,7 @@ The paper lists seven threats to its own validity:
 | # | Threat | Description |
 |:-:|---|---|
 | **T1** | Author-on-author reasoning | The hypothesis and the decision are written by the same author. |
-| **T2** | Independent review initially absent | Resolved: external review completed and signed by Jonathan Rabe on 2026-11-17. |
+| **T2** | Independent review initially absent | Resolved: independent external review completed and signed by Jonathan Rabe on 2026-11-17. |
 | **T3** | Small remainder | The H-F2 remainder may be small. |
 | **T4** | Cooperative-human assumption | Most arguments assume a cooperative human; S5 (adversarial) is not covered. |
 | **T5** | Irreducible trust anchor | P2 states that some authority cannot be reduced; this cuts against independence. |
@@ -430,11 +454,11 @@ The paper lists seven threats to its own validity:
 | **Phase** | Paused at Phase 4 (Independence Decision) — interim |
 | **Decision** | (E) Undetermined: insufficient to accept, insufficient to reject |
 | **Propositions** | P1 (near-trivial) and P2 stated as proof sketches; not machine-checked |
-| **Failure conditions** | H-F1, H-F2, H-F3 not falsified by argument; H-F4 untested |
+| **Failure conditions** | H-F1 and H-F3 not falsified by argument; H-F2 has a stronger analytical basis but is not established; H-F4 untested |
 | **Paper** | v1.0.0, 29 pages, ~11,000 words, 30 references |
 | **Implementation** | None |
 | **Experiments** | None executed; Section 9 of the paper is a proposal |
-| **Independent review | Completed and signed by external reviewer Jonathan Rabe on 2026-11-17; Phase 2 complete ([`REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md`](REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md)) |
+| **Independent review** | Completed and signed by external reviewer Jonathan Rabe on 2026-11-17; Phase 2 complete ([`REVIEW/INDEPENDENT_REVIEW.md`](REVIEW/INDEPENDENT_REVIEW.md)) |
 | **Claims not made** | Independence of the dimension; completeness of the five functions; sufficiency of the boundaries; any observed benefit; any causal effect |
 
 ---
@@ -444,14 +468,14 @@ The paper lists seven threats to its own validity:
 Machine-readable metadata is in [`CITATION.cff`](CITATION.cff) (GitHub shows a "Cite this repository" button).
 
 ```bibtex
-@misc{baladi2026aetherhuman,
+@misc{baladi2026aetherhumanv3,
   author    = {Baladi, Samir},
   title     = {AetherHuman: Human Participation in Autonomous Agent Ecosystems},
   year      = {2026},
-  version   = {1.0.0},
+  version   = {3.0.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.24314201},
-  url       = {https://doi.org/10.5281/zenodo.24314201},
+  doi       = {10.5281/zenodo.24315874},
+  url       = {https://doi.org/10.5281/zenodo.24315874},
   note      = {Architectural investigation; Phase 4: (E) Undetermined (interim)}
 }
 ```
@@ -472,7 +496,7 @@ Interdisciplinary AI Researcher, Ronin Institute / Rite of Renaissance
 | **Codeberg** | [codeberg.org/gitdeeper15/aetherhuman](https://codeberg.org/gitdeeper15/aetherhuman) |
 | **Bitbucket** | [bitbucket.org/gitdeeper15/aetherhuman](https://bitbucket.org/gitdeeper15/aetherhuman) |
 | **Website** | [aetherhuman.netlify.app](https://aetherhuman.netlify.app) |
-| **Zenodo (v3.0.0, current)** | [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
+| **Zenodo (v3.0.0, current)** | [10.5281/zenodo.24315874](https://doi.org/10.5281/zenodo.24315874) |
 | **Zenodo (v1.0.0)** | [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
 | **Zenodo (all versions)** | [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321) |
 | **Figshare** | [10.6084/m9.figshare.35038726](https://doi.org/10.6084/m9.figshare.35038726) |
@@ -490,7 +514,8 @@ Interdisciplinary AI Researcher, Ronin Institute / Rite of Renaissance
 **AetherHuman v3.0.0 — Stronger Argument Analysis for H-F2**
 
 © 2026 Samir Baladi — Ronin Institute / Rite of Renaissance
-DOI (v2.0.0, current): [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201)
+DOI (v3.0.0, current): [10.5281/zenodo.24315874](https://doi.org/10.5281/zenodo.24315874)
+DOI (v2.0.0): [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201)
 DOI (v1.0.0): [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322)
 DOI (all versions): [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321)
 Figshare DOI: [10.6084/m9.figshare.35038726](https://doi.org/10.6084/m9.figshare.35038726)
