@@ -64,3 +64,22 @@
 **AetherHuman v1.0.0 — Independent Review**
 © 2026 Samir Baladi — Ronin Institute / Rite of Renaissance
 DOI: 10.5281/zenodo.24278322
+
+---
+
+## 5. Official Sign-off (Email Confirmation)
+
+**Date of Confirmation:** 2026-11-17
+
+> *"I have reviewed the complete document one final time and verified that all sections, including the Reviewer Declaration and the interim Phase 4 assessment (E) Undetermined (interim), are accurate.*
+> 
+> *I confirm that this document reflects my independent assessment, and I authorize its publication as the official independent review for AetherHuman.*
+> 
+> *I look forward to seeing the results once the empirical evaluation suite (S1–S6) is executed. Best of luck with the v2.0.0 release."*
+> 
+> **Signed,**
+> **Jonathan Rabe**
+> AI | ML Engineer
+> Angeles University Foundation
+
+---
