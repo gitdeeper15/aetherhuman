@@ -13,7 +13,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8903--0029-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8903-0029)
 ![Status](https://img.shields.io/badge/Status-Architectural%20Investigation-blue)
-![Version](https://img.shields.io/badge/Version-2.0.0-green)
+![Version](https://img.shields.io/badge/Version-3.0.0-green)
 ![Phase](https://img.shields.io/badge/Phase%204-Undetermined%20(interim)-orange)
 [![Website](https://img.shields.io/badge/Website-aetherhuman.netlify.app-brightgreen)](https://aetherhuman.netlify.app)
 
@@ -65,7 +65,7 @@ This repository contains no `src/`, no `tests/`, and no `experiments/`. It will 
 
 | | |
 |---|---|
-| **Current release (v2.0.0)** | Published on Zenodo: [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
+| **Current release (v3.0.0)** ) |
 | **Original paper (v1.0.0)** | Published on Zenodo: [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
 | **All versions** | [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321) |
 | **Length** | ~29 pages, ~11,000 words (~13,600 with references and appendices), 30 references |
@@ -413,7 +413,7 @@ The paper lists seven threats to its own validity:
 | # | Threat | Description |
 |:-:|---|---|
 | **T1** | Author-on-author reasoning | The hypothesis and the decision are written by the same author. |
-| **T2** | No independent review | Phase 2 (independent review) has not started. |
+| **T2** | Independent review initially absent | Resolved: external review completed and signed by Jonathan Rabe on 2026-11-17. |
 | **T3** | Small remainder | The H-F2 remainder may be small. |
 | **T4** | Cooperative-human assumption | Most arguments assume a cooperative human; S5 (adversarial) is not covered. |
 | **T5** | Irreducible trust anchor | P2 states that some authority cannot be reduced; this cuts against independence. |
@@ -434,7 +434,7 @@ The paper lists seven threats to its own validity:
 | **Paper** | v1.0.0, 29 pages, ~11,000 words, 30 references |
 | **Implementation** | None |
 | **Experiments** | None executed; Section 9 of the paper is a proposal |
-| **Independent review** | Not started (Phase 2) — protocol ready ([`REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md`](REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md)) |
+| **Independent review | Completed and signed by external reviewer Jonathan Rabe on 2026-11-17; Phase 2 complete ([`REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md`](REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md)) |
 | **Claims not made** | Independence of the dimension; completeness of the five functions; sufficiency of the boundaries; any observed benefit; any causal effect |
 
 ---
@@ -472,7 +472,7 @@ Interdisciplinary AI Researcher, Ronin Institute / Rite of Renaissance
 | **Codeberg** | [codeberg.org/gitdeeper15/aetherhuman](https://codeberg.org/gitdeeper15/aetherhuman) |
 | **Bitbucket** | [bitbucket.org/gitdeeper15/aetherhuman](https://bitbucket.org/gitdeeper15/aetherhuman) |
 | **Website** | [aetherhuman.netlify.app](https://aetherhuman.netlify.app) |
-| **Zenodo (v2.0.0, current)** | [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
+| **Zenodo (v3.0.0, current)** | [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201) |
 | **Zenodo (v1.0.0)** | [10.5281/zenodo.24278322](https://doi.org/10.5281/zenodo.24278322) |
 | **Zenodo (all versions)** | [10.5281/zenodo.24278321](https://doi.org/10.5281/zenodo.24278321) |
 | **Figshare** | [10.6084/m9.figshare.35038726](https://doi.org/10.6084/m9.figshare.35038726) |
@@ -487,7 +487,7 @@ Interdisciplinary AI Researcher, Ronin Institute / Rite of Renaissance
 
 <div align="center">
 
-**AetherHuman v1.0.0 — Architectural Investigation**
+**AetherHuman v3.0.0 — Stronger Argument Analysis for H-F2**
 
 © 2026 Samir Baladi — Ronin Institute / Rite of Renaissance
 DOI (v2.0.0, current): [10.5281/zenodo.24314201](https://doi.org/10.5281/zenodo.24314201)
