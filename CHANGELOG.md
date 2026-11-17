@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [1.0.1] — 2026-11-17
+
+### Added
+- Independent review completed and confirmed by external reviewer Jonathan Rabe (AI | ML Engineer).
+- `REVIEW/INDEPENDENT_REVIEW.md` filled and signed.
+- Threat T2 (No independent review) resolved.
+
+### Changed
+- Phase 2 (Hypothesis Review) marked as ✅ Complete in `README.md`, `ROADMAP.md`, and `INVENTORY.md`.
+- `scientific_state.json` updated to reflect Phase 2 completion.
+- Decision (E) Undetermined (interim) explicitly confirmed by the external reviewer.
+
+---
+
 ## [1.0.0] — 2026-11-17
 
 ### Added

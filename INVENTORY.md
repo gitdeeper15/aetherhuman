@@ -29,8 +29,8 @@
 | Propositions P1–P2 | Stated with proof sketches; not machine-checked |
 | Failure conditions | H-F1–H-F3 not falsified by argument; H-F4 untested; H-F2 most fragile |
 | Internal review | ✅ Complete (`REVIEW/INTERNAL_REVIEW.md`) |
+| Independent review | ✅ Complete (`REVIEW/INDEPENDENT_REVIEW.md`) — Confirmed by Jonathan Rabe (2026-11-17) |
 | Independent review protocol | ✅ Complete (`REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md`) |
-| Independent review | ⏳ Not started |
 | Review status | Not peer reviewed |
 | Decision | **(E) Undetermined (interim)** |
 
@@ -132,7 +132,7 @@ No `src/`, no `tests/`, no `experiments/` — and none is planned unless Phase 4
 |---|---|---|
 | 0 | Architectural Hypothesis | ✅ Complete |
 | 1 | Responsibility Mapping | ✅ Complete |
-| 2 | Hypothesis Review (Independent) | ⏳ Not started (protocol ready) |
+| 2 | Hypothesis Review (Independent) | ✅ Complete (Confirmed by Jonathan Rabe) |
 | 3 | Falsification Design | ✅ Complete |
 | 4 | Independence Decision | ⚠️ Interim: (E) undetermined |
 | 5 | Architectural Specification | ❌ Not permitted |
