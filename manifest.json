@@ -1,0 +1,52 @@
+{
+  "project": "AetherHuman",
+  "version": "1.0.0",
+  "date": "2026-11-17",
+  "record_id": "AETHERHUMAN-01",
+  "position": 11,
+  "status": "candidate",
+  "phase": 4,
+  "phase_status": "interim",
+  "decision": "E_undetermined",
+  "author": {
+    "name": "Samir Baladi",
+    "email": "gitdeeper@gmail.com",
+    "orcid": "0009-0003-8903-0029",
+    "affiliation": "Ronin Institute / Rite of Renaissance"
+  },
+  "license": {
+    "docs": "CC-BY-4.0",
+    "code": "MIT (future — none in this release)"
+  },
+  "doi": {
+    "zenodo": "10.5281/zenodo.24278322",
+    "figshare": "pending"
+  },
+  "urls": {
+    "github": "https://github.com/gitdeeper15/aetherhuman",
+    "gitlab": "https://gitlab.com/gitdeeper15/aetherhuman",
+    "codeberg": "https://codeberg.org/gitdeeper15/aetherhuman",
+    "bitbucket": "https://bitbucket.org/gitdeeper15/aetherhuman",
+    "website": "https://aetherhuman.netlify.app",
+    "zenodo": "https://doi.org/10.5281/zenodo.24278322"
+  },
+  "counts": {
+    "functions": 5,
+    "failure_conditions": 4,
+    "propositions": 2,
+    "boundaries": 10,
+    "open_questions": 10,
+    "figures": 9,
+    "tests_run": 0,
+    "experiments_executed": 0,
+    "implementations": 0
+  },
+  "claims_not_made": [
+    "independence_of_the_dimension",
+    "completeness_of_the_five_functions",
+    "sufficiency_of_the_boundaries",
+    "genuineness_of_the_gap",
+    "observable_benefit",
+    "causal_effect"
+  ]
+}

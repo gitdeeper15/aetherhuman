@@ -1,0 +1,133 @@
+═══════════════════════════════════════════════════════════════════════════
+  AetherHuman v1.0.0 — Project Summary
+═══════════════════════════════════════════════════════════════════════════
+
+  Human Participation in Autonomous Agent Ecosystems
+
+  Version        : 1.0.0 (Architectural Hypothesis)
+  Date           : 2026-11-17
+  Record ID      : AETHERHUMAN-01
+  Position       : Eleventh project of the Aether family (candidate)
+  Author         : Samir Baladi (gitdeeper@gmail.com)
+  ORCID          : 0009-0003-8903-0029
+  License        : CC-BY-4.0 (this document) + MIT (code, future)
+
+───────────────────────────────────────────────────────────────────────────
+  STATUS
+───────────────────────────────────────────────────────────────────────────
+
+  Architectural Hypothesis. Not a committed project.
+  Paused at Phase 4 (Independence Decision).
+  Decision: (E) undetermined.
+
+  No implementation, specification, test, or experiment is reported.
+
+───────────────────────────────────────────────────────────────────────────
+  CENTRAL QUESTION
+───────────────────────────────────────────────────────────────────────────
+
+  How can human participation — as principal, overseer, or mandatory
+  intervention point — be represented in a decentralized autonomous agent
+  ecosystem, without reducing it to delegated authority or breaking the
+  autonomy assumptions of the existing dimensions?
+
+───────────────────────────────────────────────────────────────────────────
+  FIVE FUNCTIONS (INITIAL SCOPE)
+───────────────────────────────────────────────────────────────────────────
+
+  Fn1 — Human Principal          How is a human represented as an
+       Representation            architectural principal (not merely an
+                                 agent of a special type)?
+  Fn2 — Authority Relation       What authority can a human exercise over
+                                 autonomous agents — delegated, oversight,
+                                 veto, or independent?
+  Fn3 — Intervention Semantics   How does human intervention affect
+                                 execution — optional, conditional, or
+                                 mandatory non-bypassable?
+  Fn4 — Accountability Chain     How is human responsibility attributed and
+                                 traced across agent delegations?
+  Fn5 — Human-Agent Boundary     How is the boundary between human decision
+                                 and agent autonomy maintained without
+                                 collapsing one into the other?
+
+───────────────────────────────────────────────────────────────────────────
+  ARCHITECTURAL HYPOTHESIS
+───────────────────────────────────────────────────────────────────────────
+
+  A potentially independent architectural gap may exist between governance
+  authority, identity, and runtime monitoring: the operational representation
+  of human participation — its principal status, authority relations,
+  intervention semantics, accountability, and boundary with agent autonomy
+  — across decentralized autonomous agents.
+
+  This hypothesis is falsifiable.
+
+───────────────────────────────────────────────────────────────────────────
+  FALSIFICATION CONDITIONS (H-F1 TO H-F4)
+───────────────────────────────────────────────────────────────────────────
+
+  H-F1  Non-redundancy            Not falsified (with reservation)
+  H-F2  Distinction from          Not falsified (with reservation) -- MOST FRAGILE
+        Govern + Identity + Runtime
+  H-F3  Decentralizability        Not falsified (with reservation)
+  H-F4  Observable benefit        Untested
+
+───────────────────────────────────────────────────────────────────────────
+  INDEPENDENCE DECISION
+───────────────────────────────────────────────────────────────────────────
+
+  Classification : (E) undetermined
+
+  The argument is insufficient to accept AetherHuman as an independent
+  architectural dimension, and insufficient to reject it. A test is needed.
+
+  The project is paused at Phase 4. Phase 5 (Specification) is not started.
+
+───────────────────────────────────────────────────────────────────────────
+  WHAT THIS PROJECT DOES NOT CLAIM
+───────────────────────────────────────────────────────────────────────────
+
+  - That AetherHuman is an independent architectural dimension.
+  - That the five functions are complete.
+  - That the boundaries with AetherGovern, AetherIdentity, AetherRuntime,
+    and the other dimensions are sufficient.
+  - That the gap is genuine.
+  - That implementation should begin.
+
+───────────────────────────────────────────────────────────────────────────
+  PHASE STATUS
+───────────────────────────────────────────────────────────────────────────
+
+  0  Architectural Hypothesis       Complete   (ARCHITECTURAL_HYPOTHESIS.md)
+  1  Responsibility Mapping         Complete   (research/RESPONSIBILITY_BOUNDARIES.md)
+  2  Hypothesis Review              Internal   (REVIEW/INTERNAL_REVIEW.md)
+  3  Falsification Conditions       Complete   (FALSIFICATION/FALSIFICATION_PLAN.md)
+  4  Independence Decision          Interim    (DECISIONS/INDEPENDENCE_DECISION.md) -- undetermined
+  5  Specification                  Not started
+  6  Implementation                 Not started
+  7  Evaluation                     Not started
+
+───────────────────────────────────────────────────────────────────────────
+  RELATION TO AETHERGOVERN, AETHERIDENTITY, AND AETHERAUDIT
+───────────────────────────────────────────────────────────────────────────
+
+  AetherHuman is the ELEVENTH project. It does NOT replace AetherGovern
+  (the fifth project), AetherIdentity (the eighth project), or AetherAudit
+  (the tenth project). All remain dimensions or candidates with their own
+  status.
+
+───────────────────────────────────────────────────────────────────────────
+  LINKS (TO BE ASSIGNED)
+───────────────────────────────────────────────────────────────────────────
+
+  GitHub    : https://github.com/gitdeeper15/aetherhuman
+  GitLab    : https://gitlab.com/gitdeeper15/aetherhuman
+  Codeberg  : https://codeberg.org/gitdeeper15/aetherhuman
+  Bitbucket : https://bitbucket.org/gitdeeper15/aetherhuman
+  Website   : https://aetherhuman.netlify.app
+  ORCID     : https://orcid.org/0009-0003-8903-0029
+  Zenodo    : https://doi.org/10.5281/zenodo.24278322
+
+───────────────────────────────────────────────────────────────────────────
+  "AetherHuman is a candidate, not a result."
+═══════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use AetherHuman, please cite it as below."
+type: software
+title: "AetherHuman: Human Participation in Autonomous Agent Ecosystems"
+version: 1.0.0
+doi: 10.5281/zenodo.24278322
+url: "https://doi.org/10.5281/zenodo.24278322"
+abstract: >
+  AetherHuman is the eleventh candidate of the Aether family.
+  v1.0.0 is an architectural investigation of the human participation
+  gap between governance authority (AetherGovern), identity
+  (AetherIdentity), and runtime monitoring (AetherRuntime).
+authors:
+  - family-names: Baladi
+    given-names: Samir
+    orcid: "https://orcid.org/0009-0003-8903-0029"
+    email: gitdeeper@gmail.com
+    affiliation: "Ronin Institute / Rite of Renaissance"
+license: CC-BY-4.0
+keywords:
+  - Aether
+  - Multi-Agent Systems
+  - Human-in-the-Loop
+  - Architectural Investigation
+  - Falsification-First
+date-released: 2026-11-17
