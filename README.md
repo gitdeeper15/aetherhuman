@@ -230,14 +230,14 @@ AetherHuman/
 |---|---|---|
 | **0 — Architectural Hypothesis** | The hypothesis is stated | ✅ Complete ([`ARCHITECTURAL_HYPOTHESIS.md`](ARCHITECTURAL_HYPOTHESIS.md)) |
 | **1 — Responsibility Mapping** | Boundaries with existing dimensions | ✅ Complete ([`research/RESPONSIBILITY_BOUNDARIES.md`](research/RESPONSIBILITY_BOUNDARIES.md)) |
-| **2 — Hypothesis Review** | Independent review of hypothesis | ⏳ Not started ([`REVIEW/INDEPENDENT_REVIEW.md`](REVIEW/INDEPENDENT_REVIEW.md)) |
+| **2 — Hypothesis Review** | Independent review of hypothesis | ✅ Complete ([`REVIEW/INDEPENDENT_REVIEW.md`](REVIEW/INDEPENDENT_REVIEW.md)) |
 | **3 — Falsification Design** | Design of H-F1 to H-F4 tests | ✅ Complete ([`FALSIFICATION/FALSIFICATION_PLAN.md`](FALSIFICATION/FALSIFICATION_PLAN.md)) |
 | **4 — Independence Decision** | (E) Undetermined (interim) | ⚠️ Interim ([`DECISIONS/INDEPENDENCE_DECISION.md`](DECISIONS/INDEPENDENCE_DECISION.md)) |
 | **5 — Architectural Specification** | Requires positive Phase 4 | ❌ Not permitted |
 | **6 — Reference Implementation** | Requires Phase 5 | ❌ Not permitted |
 
 > [!NOTE]
-> The internal review ([`REVIEW/INTERNAL_REVIEW.md`](REVIEW/INTERNAL_REVIEW.md)) is complete. The independent review ([`REVIEW/INDEPENDENT_REVIEW.md`](REVIEW/INDEPENDENT_REVIEW.md)) has not started. The independent review protocol ([`REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md`](REVIEW/INDEPENDENT_REVIEW_PROTOCOL.md)) is ready to use. Phase 3 being complete while Phase 2 has not started is recorded as threat **T2** in the paper.
+> The internal review is complete. The independent review ([`REVIEW/INDEPENDENT_REVIEW.md`](REVIEW/INDEPENDENT_REVIEW.md)) was completed and signed by external reviewer Jonathan Rabe on 2026-11-17. He confirmed the (E) Undetermined (interim) decision. Threat T2 is now resolved.
 
 ---
 
