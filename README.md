@@ -13,7 +13,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8903--0029-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8903-0029)
 ![Status](https://img.shields.io/badge/Status-Architectural%20Investigation-blue)
-![Version](https://img.shields.io/badge/Version-1.0.0-green)
+![Version](https://img.shields.io/badge/Version-2.0.0-green)
 ![Phase](https://img.shields.io/badge/Phase%204-Undetermined%20(interim)-orange)
 [![Website](https://img.shields.io/badge/Website-aetherhuman.netlify.app-brightgreen)](https://aetherhuman.netlify.app)
 

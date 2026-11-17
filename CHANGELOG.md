@@ -7,17 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.0.1] — 2026-11-17
+## [2.0.0] — 2026-11-17
 
 ### Added
-- Independent review completed and confirmed by external reviewer Jonathan Rabe (AI | ML Engineer).
-- `REVIEW/INDEPENDENT_REVIEW.md` filled and signed.
-- Threat T2 (No independent review) resolved.
+- Phase 2 (Hypothesis Review) is now fully complete.
+- External Independent Review completed and signed by **Jonathan Rabe** (AI | ML Engineer, Angeles University Foundation).
+- `REVIEW/INDEPENDENT_REVIEW.md` finalized and confirmed.
+- **Threat T2 (No independent review) resolved.**
 
 ### Changed
-- Phase 2 (Hypothesis Review) marked as ✅ Complete in `README.md`, `ROADMAP.md`, and `INVENTORY.md`.
-- `scientific_state.json` updated to reflect Phase 2 completion.
-- Decision (E) Undetermined (interim) explicitly confirmed by the external reviewer.
+- Decision (E) Undetermined (interim) officially confirmed by an external reviewer.
+- Updated `README.md`, `ROADMAP.md`, `INVENTORY.md`, and `scientific_state.json` to reflect Phase 2 completion.
+- Version bumped to 2.0.0 to reflect the major milestone of external validation.
+
+### Not included
+- No changes to the core research paper (`AetherHuman_Research_Paper_v1.0.0.pdf`), as the scientific conclusions remain unchanged (Decision: E).
+- No implementation, no tests, no experiments.
 
 ---
 
